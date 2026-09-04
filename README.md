@@ -14,26 +14,28 @@
 ## 📸 Application Preview & Screenshots
 
 ### 🌟 1. Landing Page & Course Discovery
-![EduHub Landing Page](screenshots/landing-page.png)
+<img width="1920" height="8690" alt="landingpage" src="https://github.com/user-attachments/assets/3590cad9-41f2-4587-b1cf-bf0f21a1aa84" />
 
 ### 📚 2. Course Catalog & Smart Filtering
-![Course Catalog](screenshots/course-catalog.png)
+<img width="1920" height="3334" alt="explore" src="https://github.com/user-attachments/assets/6748561d-041b-4eb7-bce5-e7d34cf9257a" />
 
 ### 📖 3. Interactive Course Detail & Syllabus Preview
-![Course Detail](screenshots/course-detail.png)
+<img width="1920" height="4250" alt="course" src="https://github.com/user-attachments/assets/4d88518b-5be6-40e1-ae86-4bc71fb79f88" />
 
 ### 🎓 4. Student Learning Dashboard & My Courses
 | Student Learning Dashboard | Enrolled & Completed Courses |
 | :---: | :---: |
-| ![Student Dashboard](screenshots/student-dashboard.png) | ![My Courses](screenshots/my-courses.png) |
+| <img width="1920" height="4596" alt="dashboardstudent" src="https://github.com/user-attachments/assets/9d22cea8-cf2e-4c43-8451-d4c5b6c9788a" />| <img width="1920" height="1149" alt="inside" src="https://github.com/user-attachments/assets/e29c28b4-48cf-4a61-8e4c-bad26f4328ce" /> |
 
 ### 🏆 5. Verifiable Digital Certificate of Completion
-![Certificate View](screenshots/certificate-view.png)
+<img width="1920" height="1867" alt="contohsertif" src="https://github.com/user-attachments/assets/fd3dd122-d9e3-481c-81ec-3d00ce4a2e90" />
 
 ### 📊 6. Instructor Studio & Admin Governance Portals
 | Instructor Management Studio | Super Admin Governance Portal |
 | :---: | :---: |
-| ![Instructor Dashboard](screenshots/instructor-dashboard.png) | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+| <img width="1920" height="1435" alt="Instructor" src="https://github.com/user-attachments/assets/455239ae-13c6-4158-bffe-118f25d9a75a" />
+ | <img width="1920" height="1505" alt="superadmin" src="https://github.com/user-attachments/assets/db9151c7-cb04-43b9-b5d3-5579a86bb06a" />
+ |
 
 ---
 
