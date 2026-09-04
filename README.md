@@ -11,6 +11,32 @@
 
 ---
 
+## 📸 Application Preview & Screenshots
+
+### 🌟 1. Landing Page & Course Discovery
+![EduHub Landing Page](screenshots/landing-page.png)
+
+### 📚 2. Course Catalog & Smart Filtering
+![Course Catalog](screenshots/course-catalog.png)
+
+### 📖 3. Interactive Course Detail & Syllabus Preview
+![Course Detail](screenshots/course-detail.png)
+
+### 🎓 4. Student Learning Dashboard & My Courses
+| Student Learning Dashboard | Enrolled & Completed Courses |
+| :---: | :---: |
+| ![Student Dashboard](screenshots/student-dashboard.png) | ![My Courses](screenshots/my-courses.png) |
+
+### 🏆 5. Verifiable Digital Certificate of Completion
+![Certificate View](screenshots/certificate-view.png)
+
+### 📊 6. Instructor Studio & Admin Governance Portals
+| Instructor Management Studio | Super Admin Governance Portal |
+| :---: | :---: |
+| ![Instructor Dashboard](screenshots/instructor-dashboard.png) | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+
+---
+
 ## 🌟 Key Highlights & Features
 
 ### 🎓 1. Public & Student Experience
@@ -85,8 +111,8 @@ EduHub Full-Stack Architecture
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/eduhub.git
-   cd eduhub
+   git clone https://github.com/MutiaNandhika/eduhub-lms.git
+   cd eduhub-lms
    ```
 
 2. **Install Backend Dependencies**
