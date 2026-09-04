@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-sans antialiased text-slate-800 dark:text-slate-100 bg-[#f8faf9] dark:bg-[#08131a];
+    }
+
+    /* Custom smooth scrollbars */
+    ::-webkit-scrollbar {
+        width: 7px;
+        height: 7px;
+    }
+    ::-webkit-scrollbar-track {
+        background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+        @apply bg-slate-300/80 dark:bg-slate-700/80 rounded-full transition-colors;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        @apply bg-slate-400 dark:bg-slate-600;
+    }
+}
+
+@layer components {
+    /* Glassmorphic dark card matching reference style */
+    .glass-dark-card {
+        @apply bg-midnight-900/90 text-white backdrop-blur-xl border border-white/10 shadow-2xl;
+    }
+
+    /* Soft light card with subtle organic borders */
+    .theme-card {
+        @apply bg-white dark:bg-midnight-900 border border-slate-200/80 dark:border-white/5 rounded-3xl shadow-sm transition-all;
+    }
+
+    /* Reference design pill button */
+    .pill-btn-coral {
+        @apply inline-flex items-center justify-center px-5 py-2.5 rounded-full text-xs font-bold bg-coral-500 hover:bg-coral-600 text-white shadow-md shadow-coral-500/25 active:scale-95 transition-all;
+    }
+
+    .pill-btn-brand {
+        @apply inline-flex items-center justify-center px-5 py-2.5 rounded-full text-xs font-bold bg-brand-600 hover:bg-brand-700 text-white shadow-md shadow-brand-600/20 active:scale-95 transition-all;
+    }
+
+    .pill-btn-dark {
+        @apply inline-flex items-center justify-center px-5 py-2.5 rounded-full text-xs font-bold bg-midnight-900 hover:bg-black text-white dark:bg-white dark:text-midnight-900 shadow-sm active:scale-95 transition-all;
+    }
+
+    .pill-btn-outline {
+        @apply inline-flex items-center justify-center px-5 py-2.5 rounded-full text-xs font-bold border border-slate-300/90 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-all;
+    }
+}

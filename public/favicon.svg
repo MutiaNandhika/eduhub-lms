@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+    <rect width="64" height="64" rx="16" fill="#0B1E28" />
+    <!-- Graduation Cap Mortarboard Diamond -->
+    <polygon points="32,13 57,26 32,39 7,26" fill="#2DD4BF" />
+    <!-- Cap Base -->
+    <path d="M18,31 L18,43 C18,49 46,49 46,43 L46,31 C42,33.5 37,35 32,35 C27,35 22,33.5 18,31 Z" fill="#FFFFFF" />
+    <!-- Coral Tassel -->
+    <path d="M46,28 Q53,32 52,40" stroke="#F05B3D" stroke-width="2.5" stroke-linecap="round" fill="none" />
+    <circle cx="51.5" cy="43" r="2.5" fill="#F05B3D" />
+</svg>
